@@ -1,0 +1,5 @@
+﻿  Bullet.cpp
+e:\허규남\대학교\컴퓨터그래픽스\graphicstp\openglhw\model.h(26): warning C4150: deletion of pointer to incomplete type 'GLUquadric'; no destructor called
+  c:\program files (x86)\windows kits\8.1\include\um\gl\glu.h(163): note: see declaration of 'GLUquadric'
+  OpenGLHW.vcxproj -> E:\허규남\대학교\컴퓨터그래픽스\GraphicsTP\Debug\OpenGLHW.exe
+  OpenGLHW.vcxproj -> E:\허규남\대학교\컴퓨터그래픽스\GraphicsTP\Debug\OpenGLHW.pdb (Full PDB)
